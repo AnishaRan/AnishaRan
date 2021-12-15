@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anisha Ranjan!
+### Hello 👋 I'm Anisha Ranjan!
 
 <!--
 **AnishaRan/AnishaRan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ### About Me
 I am currently a sophomore studying Computer Science at the University of Central Florida.
-
 In my freetime, I enjoy playing musical instruments and programming!
 
-[LinkedIn](https://www.linkedin.com/in/anisha-ranjan)
+[My LinkedIn](https://www.linkedin.com/in/anisha-ranjan)
