@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ### About Me
 I am currently a sophomore studying Computer Science at the University of Central Florida.
+
 In my freetime, I enjoy playing musical instruments and programming!
 
 [LinkedIn](https://www.linkedin.com/in/anisha-ranjan)
